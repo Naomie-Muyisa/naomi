@@ -1,0 +1,17 @@
+# Ignore les fichiers et dossiers générés par Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore les fichiers de build de Tailwind CSS
+dist/
+
+# Ignore les fichiers de sauvegarde
+*.backup
+*~
+
+# Ignore les fichiers d'environnement locaux
+.env.local
+
+# Ignore les fichiers de configuration
+.eslintcache
